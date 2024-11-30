@@ -1,7 +1,7 @@
 local wasd = {
   _VERSION = "wasd v1.0.0",
   _DESCRIPTION = "WASD movement library for LÖVE",
-  _URL = "",
+  _URL = "https://github.com/heydnlgrz/wasd",
   _LICENSE = [[
     MIT LICENSE
 
